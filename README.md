@@ -1,10 +1,6 @@
-# 🎮 Raylib Game Template
-
-A clean, cross-platform starter template for [raylib](https://www.raylib.com/) projects using CMake. Clone and build in under a minute on macOS, Windows, or Linux.
-
-**What you get:** A window that opens, renders "Hello Raylib!", and runs at 60 FPS. Replace `src/main.cpp` with your own game logic.
-
----
+#
+This is a self use template for raylib, if you are also interested in raylib, try cloning the repo and try it out
+#
 
 ## Quick Start
 
